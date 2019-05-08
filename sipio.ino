@@ -20,8 +20,8 @@ const int echoPin = D1;
  
 const char *ssid = "cahayaDev"; //ganti nama wifi
 const char *pass = "gamegame";//ganti password
-const char* host = "http://192.168.137.1";
-String get_host = "http://192.168.137.1";
+const char* host = "http://35.184.2.246";
+String get_host = "http://35.184.2.246";
 
 long durasi;
 int jarak ;
